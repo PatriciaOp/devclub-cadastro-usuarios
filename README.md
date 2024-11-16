@@ -6,7 +6,7 @@
 
 <img src="https://github.com/PatriciaOp/devclub-cadastro-usuarios/blob/main/src/assets/imgReadme.jpg?raw=true"/>
 
-
+<a href="https://patriciaop.github.io/devclub-cadastro-usuarios/">Acesse aqui:</a>
 
 # React + Vite
 
